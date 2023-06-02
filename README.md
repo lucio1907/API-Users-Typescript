@@ -1,7 +1,7 @@
 
 # Technical proof 👨‍💻
 
-This is a Technical proof for improve my habilities using Typescript.
+This is a Technical proof to improve my habilities using Typescript.
 # API Documentation 📄
 
 The routes that have (Security) are validated with JWT (Json Web Token), so that's mean you've to make a login to get a unique Token. This Token expires after 2 hours.
