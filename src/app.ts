@@ -16,4 +16,4 @@ connectionMongoDB()
 app.use('/api/v1', routerLogin, routerUsers);
 
 const PORT = 8080 || process.env.PORT;
-app.listen(PORT, () => console.log("Server up!"));
+app.listen(PORT, "0.0.0.0", () => console.log("Server up!"));
