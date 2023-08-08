@@ -1,5 +1,5 @@
 
-# Technical proof 👨‍💻
+# Technical test 👨‍💻
 
 This is a Technical proof to improve my habilities using Typescript.
 # API Documentation 📄
